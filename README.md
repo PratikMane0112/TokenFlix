@@ -1,5 +1,5 @@
 
-# Computer Network Project with Socket Programming in C
+# Computer Network Project with Socket Programming in C language
 
 Architecture of socket programming -
 
