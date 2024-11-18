@@ -39,5 +39,5 @@ The client side of the project is implemented in the `client.c` file. It perform
 ## Notes:
 
 - Update the file paths for video files (`movie.mp4`, `Kapil.mp4`, etc.) in both `server.c` and `client.c` according to your system configuration.
-- Ensure that the `ffplay` command-line tool is installed on your system for video playback functionality.
+- Ensure that the `ffplay` command line tool is installed on your system for video playback functionality.
 
